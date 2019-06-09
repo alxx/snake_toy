@@ -4,7 +4,7 @@ This is a classic wooden puzzle made of 13 segments of various lengths.
 The shortest segment is a cube; other segments are twice as long, some are three times
 as long. The lengths of the segments is in `main.rb` at line 5.
 
-![the puzzle deconstructed](https://i.ibb.co/WBRtfgF/2019-06-09-21-41-53.jpg =250px)
+<img width="250px" src="https://i.ibb.co/WBRtfgF/2019-06-09-21-41-53.jpg">
 
 The wooden segments are all interconnected using a strong elastic, through a whole pierced
 longitudinally through each segment. They are crested at the ends, allowing the elastic to
@@ -12,7 +12,7 @@ bind two segments in various configurations, as you can see in the photos.
 
 The object of the puzzle is to build a cube (or at least that's the object in this project.)
 
-![the cube](https://i.ibb.co/RQGmMJF/2019-06-09-21-41-31.jpg =250px)
+<img width="250px" src="https://i.ibb.co/RQGmMJF/2019-06-09-21-41-31.jpg">
 
 The algorithm found 7,236 solutions and they are all in `results.txt`. Alternatively you can
 run the script yourself: `ruby main.rb`. (Ruby 2.5 was used in development.)
