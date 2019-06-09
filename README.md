@@ -6,7 +6,7 @@ as long. The lengths of the segments is in `main.rb` at line 5.
 
 <img width="250px" src="https://i.ibb.co/WBRtfgF/2019-06-09-21-41-53.jpg">
 
-The wooden segments are all interconnected using a strong elastic, through a whole pierced
+The wooden segments are all interconnected using a strong elastic, through a channel pierced
 longitudinally through each segment. They are crested at the ends, allowing the elastic to
 bind two segments in various configurations, as you can see in the photos.
 
